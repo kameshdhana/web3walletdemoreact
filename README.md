@@ -1,3 +1,11 @@
+# web3 wallet demo
+
+Just use project id from https://cloud.walletconnect.com by creating your own project.
+
+# Reference
+
+For reference visit https://youtu.be/jRaAy-hykLU && https://medium.com/walletconnect/walletconnect-sign-v2-0-beginners-guide-for-javascript-developers-c02c02d215c9
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
